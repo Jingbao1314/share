@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="untitled:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/untitled_jar</output-path>
+    <root id="archive" name="untitled.jar">
+      <element id="module-output" name="untitled" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libb/tools.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libb/gson-2.2.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libb/jedis-2.9.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libb/log4j-1.2.17.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libb/commons-pool2-2.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libb/netty-all-5.0.0.Alpha2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libb/mysql-connector-java-5.0.8-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

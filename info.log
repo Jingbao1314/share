@@ -1,0 +1,9 @@
+INFO 24 [2018-09-05 09:37:39,919] mainServer.InHandler - InHandler :ChannelHandlerContext(InHandler#0, [id: 0x18d35eef, /127.0.0.1:35234 => /127.0.0.1:7721])
+INFO 16 [2018-09-05 09:37:40,049] control.Login - this is Login{id:0,name:null,sex:null,balance:null,password:null,paypassword:null,phone:13333333333}
+INFO 24 [2018-09-05 09:37:40,534] util.JdbcMethod.LoginJdbc - LoginJdbc.select{id:0,name:null,sex:null,balance:null,password:null,paypassword:null,phone:13333333333}
+INFO 24 [2018-09-05 09:37:43,179] mainServer.InHandler - InHandler :ChannelHandlerContext(InHandler#0, [id: 0xb820831c, /127.0.0.1:35242 => /127.0.0.1:7721])
+INFO 16 [2018-09-05 09:37:43,184] control.Login - this is Login{id:0,name:null,sex:null,balance:null,password:null,paypassword:null,phone:13333333333}
+INFO 24 [2018-09-05 09:37:44,996] mainServer.InHandler - InHandler :ChannelHandlerContext(InHandler#0, [id: 0xb3ea815c, /127.0.0.1:35244 => /127.0.0.1:7721])
+INFO 16 [2018-09-05 09:37:44,997] control.Login - this is Login{id:0,name:null,sex:null,balance:null,password:null,paypassword:null,phone:13333333333}
+INFO 24 [2018-09-05 09:38:58,251] mainServer.InHandler - InHandler :ChannelHandlerContext(InHandler#0, [id: 0xb3ea815c, /127.0.0.1:35244 => /127.0.0.1:7721])
+INFO 16 [2018-09-05 09:38:58,256] control.Login - this is Login{id:0,name:null,sex:null,balance:null,password:null,paypassword:null,phone:13333333333}
